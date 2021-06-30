@@ -1,0 +1,13 @@
+{
+  "id" : "https://catgower.github.io/Alban_Genealogy/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in catgower/Alban_Genealogy project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://catgower.github.io/Alban_Genealogy/manifests/manifest.json",
+    "label" : [ "Cambridge, Corpus Christi College, MS 098A: Genealogical Roll (Creation to temp. Henry VI)", { }, { }, { } ]
+  } ]
+}
